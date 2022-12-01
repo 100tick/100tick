@@ -3,7 +3,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-#### 이 3마리를 배워볼까함. 파란걸로다가
+#### 파란걸로다가
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=100tick&show_icons=true&theme=rose_pine)
 ---
