@@ -7,7 +7,7 @@
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=100tick&show_icons=true&theme=rose_pine)
 ---
-[2022-11-17] ~ 1년 간 하루에 1문제 이상 유지해보기
+2022-11-17 ~ 1년 간 하루에 1문제 이상 유지해보기
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=100tick)](https://solved.ac/100tick/)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100tick&layout=compact&theme=rose_pine)
