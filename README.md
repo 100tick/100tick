@@ -1,7 +1,8 @@
 
 ---
 블로그
-[Blog](https://velog.io/@100tick{:target="_blank"})
+[Blog](https://velog.io/@100tick){: target="_blank"}
+
 <!-- ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white) -->
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) -->
 <!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) -->
